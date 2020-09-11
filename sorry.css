@@ -1,0 +1,16 @@
+#tools{
+   
+    margin: 20px auto;
+    font-size: 45px;
+    text-align: center;
+    padding: 140px 100px;
+    width: auto;
+    outline: none;
+}
+
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
